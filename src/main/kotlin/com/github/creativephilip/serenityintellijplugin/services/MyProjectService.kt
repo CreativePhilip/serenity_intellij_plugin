@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.creativephilip.serenityintellijplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.creativephilip.serenityintellijplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
